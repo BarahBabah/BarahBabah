@@ -29,3 +29,5 @@
 </a>
 
 🤝 Готов к сотрудничеству и новым проектам.
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=barahbabah&hide_border=true&layout=compact&theme=apprentice)
