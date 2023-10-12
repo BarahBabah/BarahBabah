@@ -2,7 +2,6 @@
 
 🚀 Я начинающий Web-разработчик, специализирующийся на создании веб-сайтов и приложений. Стремлюсь к качеству и профессионализму
 
-🤝 Готов к сотрудничеству и новым проектам.
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
@@ -18,3 +17,15 @@
 ### Learning:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux"></code>
+
+### My Contacts:
+<a href="https://t.me/novelth">
+    <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="telegram">
+</a>
+
+
+<a href="mailto:novelthunderstorm@gmail.com">
+    <img height="27" src="https://github.com/BarahBabah/BarahBabah/assets/108397448/b08b0726-1f93-4925-8ad9-84adfc627140" alt="email">
+</a>
+
+🤝 Готов к сотрудничеству и новым проектам.
