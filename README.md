@@ -2,6 +2,9 @@
 
 🚀 Я начинающий Web-разработчик, специализирующийся на создании веб-сайтов и приложений. Стремлюсь к качеству и профессионализму
 
+
+🤝 Готов к сотрудничеству и новым проектам.
+
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" title="JavaScript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" title="HTML"></code>
@@ -27,7 +30,6 @@
     <img height="27" src="https://github.com/BarahBabah/BarahBabah/assets/108397448/b08b0726-1f93-4925-8ad9-84adfc627140" alt="email" title="Email">
 </a>
 
-🤝 Готов к сотрудничеству и новым проектам.
 
 <details>
 <summary>GitHub Statistics</summary>
